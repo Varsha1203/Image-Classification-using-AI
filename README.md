@@ -1,10 +1,10 @@
 # Face-Detection
 
-The trained model stored its weights in a file name called 'model_weights.h5'
+The model has been trained in a python notebook called 'finalProject.ipynb'.
 
-The saved model has been loaded in a python notebook called 'savedModel.ipynb'
+The trained model stored its weights in a file name 'model_weights.h5'. This saved weights has been loaded in a python notebook called 'savedModel.ipynb'.
 
-Only file to be run is savedModel.ipynb while it asks for input image name for which you want to find the person face
+Only file to be run is savedModel.ipynb while it asks for input image name for which you want to find the person face.
 
 Ensure two things before running :
 
